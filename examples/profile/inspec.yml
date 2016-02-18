@@ -1,0 +1,6 @@
+name: Example profile
+title: Example profile
+maintainer: Kevin Formsma
+summary: Example profile with aws inspec resources
+version: 1.0.0
+supports:
