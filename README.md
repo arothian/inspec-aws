@@ -1,3 +1,6 @@
+# Notice
+Inspec now features resources for cloud providers directly. Check it out at https://www.inspec.io/docs/reference/platforms/
+
 # Inspec::Aws
 
 This gem is a collection of custom [inspec](https://github.com/chef/inspec) resources targeting AWS resources.
